@@ -1,5 +1,5 @@
-# Abdominal aortic aneurysm (AAA)
-Code: Endoleak detection with unenhanced CT
+# AAA (Abdominal aortic aneurysm)
+code: endoleak detection with unenhanced CT features
 1. Feature Extraction
 2. Feature Selection
 3. Feature Reduction
