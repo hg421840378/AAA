@@ -1,3 +1,2 @@
 # AAA (Abdominal aortic aneurysm)
-Switch to the master branch —— 
-code: endoleak detection with unenhanced CT features
+Switch to the master branch —— Code: endoleak detection with unenhanced CT features
